@@ -1,3 +1,10 @@
+# Archived Repository
+This repository has been archived and will no longer receive updates. 
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+If you are a Chef customer and need support for this repository, please contact your Chef account team.
+
+---
+
 [![Build Status](https://circleci.com/gh/habitat-sh/habitat-operator.svg?style=svg)](https://circleci.com/gh/habitat-sh/habitat-operator)
 [![Go Report Card](https://goreportcard.com/badge/github.com/habitat-sh/habitat-operator)](https://goreportcard.com/report/github.com/habitat-sh/habitat-operator)
 
